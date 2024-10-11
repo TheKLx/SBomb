@@ -6,3 +6,9 @@ i am currently working on getting 30 OTP API's & modify the script and upload it
 
 # When will be the script updated, to use the OTP APi's?
 well, in my free time i am gonna work on this but this is gonna be a LONG project.
+
+
+
+
+
+i am inspired by TBomb: https://github.com/TheSpeedX/TBomb 
